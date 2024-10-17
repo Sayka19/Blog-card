@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    background-color:#ede8e8;
+}
+img{
+    height:300px;
+    border-radius:10px 10px 0px 0px;
+}
+button{
+    color:green;
+    background-color:#c4ebb7;
+    font-weight: light;
+    border:none;
+    padding:4px;
+    border-radius:8px;
+}
+p{
+    font-weight:lighter;
+}
+.info{
+    padding:0px 9px 9px 10px;
+}
+.main{
+    background-color:white;
+    width:300px;
+    height:500px;
+    justify-items: center;
+    margin:auto;
+    margin-top:130px;
+    border-radius:10px;
+}
+h4{
+    color:rgb(122, 122, 244);
+}
